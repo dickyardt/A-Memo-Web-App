@@ -3,6 +3,7 @@
 #npm i
 #npm i mongoose
 #npm i lodash
-#Instructions :
+# Instructions :
 1. Hit the + button to add a new item.
 2. <-- Hit this to delete an item.
+Here the deployment : https://glacial-caverns-53012.herokuapp.com/
