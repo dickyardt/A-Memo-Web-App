@@ -3,7 +3,7 @@
 #npm i
 #npm i mongoose
 #npm i lodash
-Instructions :
+#Instructions :
 1. Hit the + button to add a new item.
 2. <-- Hit this to delete an item.
 rm -rf .git
